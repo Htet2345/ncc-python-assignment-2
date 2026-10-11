@@ -1,0 +1,2 @@
+# This assignment uses only the Python standard library (Python 3.10+).
+# No third-party packages are required to run the application or its tests.

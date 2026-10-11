@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+userlist.txt
+userlist.txt.tmp
+.video-tools/
+reference_frames/
+.review-tools/
+lesson_review/
+practice_data/
+docs/reference/
+LESSON_REVIEW.md
